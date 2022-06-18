@@ -1,0 +1,6 @@
+export const enum responseCode {
+  LOGIN_SUCCESS,
+  AUTH_USER_NOT_FOUND,
+  AUTH_PASSWORD_NOT_MATCH,
+  AUTH_USER_EXISTED,
+}
